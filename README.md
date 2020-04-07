@@ -1,3 +1,1 @@
-# Ping-in-python
-ping Game
-
+http://www.codeskulptor.org/#user47_luvVOLDRdb8QKSN.py
